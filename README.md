@@ -1,7 +1,7 @@
 
 # BMI Calculator
 
-BMI Calculator is a swift app that calculates your Body Mass Index.
+BMI Calculator is a iOS app that calculates your Body Mass Index.
 
 
 ## Features
